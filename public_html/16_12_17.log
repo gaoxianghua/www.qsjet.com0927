@@ -1,0 +1,30 @@
+[ 2016-12-17T00:19:54+08:00 ] 123.126.113.134 /redwine/procon.asp?cid=0&tid=314&dataid=252
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+ERR: 无法加载模块:Redwine
+
+[ 2016-12-17T00:20:37+08:00 ] 123.126.113.134 /redwine/procon.asp?cid=0&tid=314&dataid=256
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000247s ]
+ERR: 无法加载模块:Redwine
+
+[ 2016-12-17T07:48:28+08:00 ] 123.126.113.134 /redwine/procon.asp?cid=0&tid=312&dataid=66
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+ERR: 无法加载模块:Redwine
+
+[ 2016-12-17T16:24:38+08:00 ] 123.126.113.134 /redwine/procon.asp?cid=314&tid=322&dataid=250
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+ERR: 无法加载模块:Redwine
+
+[ 2016-12-17T16:25:50+08:00 ] 123.126.113.134 /redwine/news_info.asp?cid=235&tid=305&dataid=45
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+ERR: 无法加载模块:Redwine
+

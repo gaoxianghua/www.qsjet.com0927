@@ -1,0 +1,41 @@
+[ 2016-09-12T16:39:09+08:00 ] 123.125.67.157 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.346339s ]
+ERR: 无法加载模块:Robots
+
+[ 2016-09-12T18:25:05+08:00 ] 123.126.113.126 /ganju/index.php?c=msg&id=257&
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+ERR: 无法加载模块:Errpage
+
+[ 2016-09-12T18:51:02+08:00 ] 123.126.113.126 /ganju/index.php?c=msg&id=304&
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+ERR: 无法加载模块:Errpage
+
+[ 2016-09-12T22:44:09+08:00 ] 106.36.93.121 /Public/Images/tz-bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+
+[ 2016-09-12T23:16:28+08:00 ] 123.126.113.126 /redwine/procon.asp?cid=0&tid=314&dataid=238
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+ERR: 无法加载模块:Redwine
+
+[ 2016-09-12T23:24:33+08:00 ] 123.126.113.126 /redwine/pro.asp?page=1&cid=312&tid=312
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+ERR: 无法加载模块:Redwine
+
+[ 2016-09-12T23:26:52+08:00 ] 123.126.113.126 /procon.asp?cid=314&tid=323&dataid=222
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+ERR: 无法加载模块:Procon
+

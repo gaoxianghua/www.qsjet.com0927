@@ -1,0 +1,229 @@
+body {
+	font: 12px/1.6em "微软雅黑";
+	margin-top: 0px; 
+	margin-right: 0px; 
+	margin-bottom: 0px; 
+	margin-left: 0px;
+	line-height: 16.8px;
+	background-image: url(/images/01.gif);
+	}
+.more{
+font-weight:bold;
+font-size:12px;
+color:#666666;
+text-decoration:none;}
+hr {
+	height: 1px;
+	color: #333333;
+	
+	}
+
+TD {
+	font-size: 12.8px;
+	line-height: 18.8px;
+}
+textarea {
+	font-size: 12.8px;font-family:"";
+}
+
+A:link {
+	COLOR: #666666; font-family:""; font-size:12px; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #666666;font-family:""; font-size:12px; TEXT-DECORATION: underline
+}
+A:visited {
+	COLOR: #666666;font-family:""; font-size:12px; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #666666;font-family:""; font-size:12px; TEXT-DECORATION: underline
+}
+A.navLink:link {
+	COLOR: #ffffff;font-size: 12px;font-weight: bold;padding-left:10px; font-family:"";padding-right:10px;
+}
+A.navLink:visited {
+	COLOR: #ffffff;font-size: 12px;font-weight: bold;padding-left:10px;font-family:"";padding-right:10px;
+}
+A.navLink:hover {
+	COLOR: #ffffff;font-size: 12px;font-weight: bold;padding-left:10px;font-family:"";padding-right:10px;
+}
+
+
+.lanA:link {
+	COLOR: #1167CA; font-family:""; font-size:12px; TEXT-DECORATION: none
+}
+.lanA:active {
+	COLOR: #1167CA;font-family:""; font-size:12px; TEXT-DECORATION: none
+}
+.lanA:visited {
+	COLOR: #1167CA;font-family:""; font-size:12px; TEXT-DECORATION: none
+}
+.lanA:hover {
+	COLOR: #666666;font-family:""; font-size:12px; TEXT-DECORATION: none
+}
+
+.lanB:link {
+	COLOR: #666666; font-family:""; font-size:12px; TEXT-DECORATION: none
+}
+.lanB:active {
+	COLOR: #1167CA;font-family:""; font-size:12px; TEXT-DECORATION: none
+}
+.lanB:visited {
+	COLOR: #666666;font-family:""; font-size:12px; TEXT-DECORATION: none
+}
+.lanB:hover {
+	COLOR: #666666;font-family:""; font-size:12px; TEXT-DECORATION: none
+}
+
+.lanf:link {
+	COLOR: #666666; font-family:""; font-size:12px; TEXT-DECORATION: none
+}
+.lanf:active {
+	COLOR: #1167CA;font-family:""; font-size:12px; TEXT-DECORATION: underline
+}
+.lanf:visited {
+	COLOR: #666666;font-family:""; font-size:12px; TEXT-DECORATION: none
+}
+.lanf:hover {
+	COLOR: #666666;font-family:""; font-size:12px; TEXT-DECORATION: underline
+}
+
+
+.lanV:link {
+	COLOR: #00000; font-family:""; font-size:12px; TEXT-DECORATION: none
+}
+.lanV:active {
+	COLOR: #00000;font-family:""; font-size:12px; TEXT-DECORATION: none
+}
+.lanV:visited {
+	COLOR: #000000;font-family:""; font-size:12px; TEXT-DECORATION: none
+}
+.lanV:hover {
+	COLOR: #1167CA;font-family:""; font-size:12px; TEXT-DECORATION: none
+}
+
+.newsTitlety:link {
+	COLOR: #2D2C2C; font-family:""; font-size:12px; TEXT-DECORATION: none
+}
+.newsTitlety:active {
+	COLOR: #2D2C2C;font-family:""; font-size:12px; TEXT-DECORATION: none
+}
+.newsTitlety:visited {
+	COLOR: #2D2C2C;font-family:""; font-size:12px; TEXT-DECORATION: none
+}
+.newsTitlety:hover {
+	COLOR: #1167CA;font-family:""; font-size:12px; TEXT-DECORATION: none
+}
+
+
+.boldwhite {
+	color: #ffffff;
+	font-weight: bold;
+	padding-left:5px;
+}
+.boldblack {
+	color: #000000;
+	font-weight: bold;
+	padding-left:5px;
+}
+.title {
+	color: #1167CA;
+	FONT-SIZE: 14.8px;
+	font-weight: bold;
+}
+.title1 {
+	color: #1167CA;
+	FONT-SIZE: 12px;
+	font-weight: bold;
+}
+.content {
+	FONT-SIZE: 12px;
+	line-height: 24px;
+	color:#333333;
+}
+.padding {
+	padding:10px 10px 10px 10px;
+}
+.dashedtd{
+	BORDER-BOTTOM:  #ededed  1px  solid;
+	BORDER-top:  #ededed  1px  solid;
+	BORDER-LEFT:  #ededed  1px  solid;
+	BORDER-RIGHT:  #ededed  1px  solid;
+	}
+.dottedtd{
+	BORDER-BOTTOM:  #DEDFDE  1px  dotted;
+	BORDER-top:  #DEDFDE  0px  dotted;
+	BORDER-LEFT:  #DEDFDE  0px  dotted;
+	BORDER-RIGHT:  #DEDFDE  0px  dotted;
+	line-height: 25px;
+	}
+	
+.dottedtd2{
+list-style:none;
+	BORDER-BOTTOM:  #DEDFDE  1px  dotted;
+	BORDER-top:  #DEDFDE  0px  dotted;
+	BORDER-LEFT:  #DEDFDE  0px  dotted;
+	BORDER-RIGHT:  #DEDFDE  0px  dotted;
+	line-height: 25px;
+	}	
+
+#largeImg {
+	border: solid 1px #ccc;
+	width: 150px;
+	height: 120px;
+	padding: 5px;
+}
+
+/* Dig */
+
+.digArea .digNum {
+	MARGIN-TOP: 9px; DISPLAY: block; FONT-WEIGHT: bold; FONT-SIZE: 16px; WIDTH: 54px; FONT-FAMILY: Georgia; HEIGHT: 34px; 
+
+TEXT-ALIGN: center
+}
+.digArea .top {
+	padding-top:8px;
+}
+.digArea .digLink {
+	DISPLAY: block; WIDTH: 54px; COLOR: #999; TEXT-ALIGN: center;
+}
+.digArea .digLink A {
+	COLOR: #bf2f38
+}
+.digArea .digLink A:hover {
+	COLOR: #f00
+}
+
+DL.digRow {
+	PADDING-RIGHT: 9px; PADDING-LEFT: 9px;  PADDING-BOTTOM: 9px; MARGIN: 0px; PADDING-TOP: 0px; 
+}
+DL.digRow DT {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(/images/dig.gif) no-repeat; FLOAT: right; PADDING-BOTTOM: 
+
+0px; MARGIN: 6px 0px 0px; WIDTH: 54px; PADDING-TOP: 0px; HEIGHT: 70px
+}
+DL.digRow DD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 512px; COLOR: #555; 
+
+PADDING-TOP: 0px
+}
+DL.digRow DD H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; HEIGHT: 24px
+}
+DL.digRow DD H3 A {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; FLOAT: left; OVERFLOW: hidden; WIDTH: 412px; WHITE-SPACE: nowrap; TEXT-OVERFLOW: 
+
+ellipsis
+}
+DL.digRow DD H3 SPAN {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #999
+}
+/* message */
+.progress{
+	width: 1px;
+	height: 17px;
+	font-size: 11px;
+    overflow: hidden;
+	background-color: #f6f5f5;
+	padding-left: 5px;
+}

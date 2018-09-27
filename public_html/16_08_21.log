@@ -1,0 +1,30 @@
+[ 2016-08-21T05:15:54+08:00 ] 5.9.142.226 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003434s ]
+ERR: 无法加载模块:Robots
+
+[ 2016-08-21T09:37:47+08:00 ] 124.200.90.166 //Public/Home/Images/ico.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-21T10:26:28+08:00 ] 124.200.90.166 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-08-21T11:02:03+08:00 ] 124.200.90.166 //Public/Home/js/skin/layer.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-21T11:46:47+08:00 ] 123.126.113.126 /ch/SheDeJiu-38Du-73.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+ERR: 无法加载模块:Ch
+

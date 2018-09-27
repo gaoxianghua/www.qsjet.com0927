@@ -1,0 +1,30 @@
+[ 2016-12-19T03:47:25+08:00 ] 123.126.113.134 /redwine/procon.asp?cid=0&tid=312&dataid=301
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+ERR: 无法加载模块:Redwine
+
+[ 2016-12-19T03:47:53+08:00 ] 123.126.113.134 /redwine/procon.asp?cid=0&tid=312&dataid=307
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+ERR: 无法加载模块:Redwine
+
+[ 2016-12-19T11:53:11+08:00 ] 222.211.138.116 /%22http://shsj.weichuangkeji.com/Public/Uploads/Picture/2016-07-27/5798641251019.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+ERR: 无法加载模块:"http:
+
+[ 2016-12-19T11:54:37+08:00 ] 111.200.39.32 /%22http://shsj.weichuangkeji.com/Public/Lnong/images/index-case-bg.jpg%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+ERR: 无法加载模块:"http:
+
+[ 2016-12-19T20:24:30+08:00 ] 203.208.60.239 /ganju/upfiles/201310/28/big_320.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+ERR: 无法加载模块:Ganju
+

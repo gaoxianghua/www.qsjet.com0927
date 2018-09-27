@@ -1,0 +1,120 @@
+[ 2016-09-09T00:29:48+08:00 ] 144.76.97.72 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.070840s ]
+ERR: 无法加载模块:Robots
+
+[ 2016-09-09T04:22:34+08:00 ] 123.126.113.126 /ch/ProductBuy.asp?ProductNo=132911-971
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003321s ]
+ERR: 无法加载模块:Ch
+
+[ 2016-09-09T04:22:45+08:00 ] 123.126.113.126 /ch/ProductBuy.asp?ProductNo=17432-995
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+ERR: 无法加载模块:Ch
+
+[ 2016-09-09T10:04:49+08:00 ] 111.196.150.190 /Public/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-09T11:10:38+08:00 ] 5.9.85.4 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+ERR: 无法加载模块:Robots
+
+[ 2016-09-09T14:15:46+08:00 ] 123.126.113.126 /ch/PengYuXiongDiZhongGuoYingXiaoWangLuo-8.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+ERR: 无法加载模块:Ch
+
+[ 2016-09-09T14:47:15+08:00 ] 111.196.150.190 /Public/Home/static/css/font/vjs.eot?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-09T14:48:24+08:00 ] 111.196.150.190 /Public/Home/static/css/font/vjs.eot?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.358206s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-09T14:50:37+08:00 ] 111.196.150.190 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-09-09T15:59:58+08:00 ] 121.42.0.15 /Images/Mlogin/Bitmap02.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+
+[ 2016-09-09T16:00:11+08:00 ] 121.42.0.15 /core/themes/stable/images/core/menu-collapsed-rtl.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+
+[ 2016-09-09T16:00:34+08:00 ] 121.42.0.15 /console/images/bg11.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+
+[ 2016-09-09T16:00:59+08:00 ] 121.42.0.15 /images/admina/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+
+[ 2016-09-09T16:01:41+08:00 ] 121.42.0.15 /app/Tpl/fanwe/images/icon_arrowdouble.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+
+[ 2016-09-09T18:21:53+08:00 ] 123.126.113.126 /ganju/index.php?c=msg&id=113&
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+ERR: 无法加载模块:Errpage
+
+[ 2016-09-09T18:29:49+08:00 ] 123.126.113.126 /ch/ProductBuy.asp?ProductNo=123739-114
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+ERR: 无法加载模块:Ch
+
+[ 2016-09-09T18:34:53+08:00 ] 123.126.113.126 /En/ZuZhiJiGou-5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+ERR: 无法加载模块:En
+
+[ 2016-09-09T18:37:56+08:00 ] 123.126.113.126 /ch/YuanDai-WoGuoPuTaoJiuYeHePuTaoJiuWenHuaDeDingShengShiQi-65.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000247s ]
+ERR: 无法加载模块:Ch
+
+[ 2016-09-09T22:21:15+08:00 ] 142.4.106.180 /a.asp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.022929s ]
+ERR: 无法加载模块:A
+
+[ 2016-09-09T22:54:00+08:00 ] 1.83.112.225 /Public/Images/tz-bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+
+[ 2016-09-09T23:25:11+08:00 ] 220.181.108.186 /ganju/index.php?c=list&cs=industry
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012945s ]
+ERR: 无法加载模块:Errpage
+

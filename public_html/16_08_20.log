@@ -1,0 +1,18 @@
+[ 2016-08-20T08:29:43+08:00 ] 124.200.90.166 //Public/Home/Images/ico.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-20T11:31:08+08:00 ] 124.200.90.166 //Public/Home/js/skin/layer.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-20T17:12:26+08:00 ] 203.208.60.207 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006448s ]
+ERR: 无法加载模块:Robots
+
